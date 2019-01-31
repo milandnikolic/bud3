@@ -1,1 +1,1 @@
-# bud3
+This is a custom WordPress theme
